@@ -1,6 +1,6 @@
 # **Deep Learning Lab Practicals**
 
-This repository contains lab practicals from the **Deep Learning** course at [Your Institution Name]. The projects cover key topics in deep learning, including logistic regression, cost and loss functions, development of Convolutional Neural Networks (CNNs), and more.
+This repository contains lab practicals from the **Deep Learning** course at ADYPU-SOE. The projects cover key topics in deep learning, including logistic regression, cost and loss functions, development of Convolutional Neural Networks (CNNs), and more.
 
 ## **Folder Structure**
 
@@ -26,7 +26,13 @@ All required datasets can be found in the `Datasets` folder. You will find datas
 - Insurance dataset for Cost & Loss Functions and Gradient Descent
 - Potato Disease dataset for CNN-based prediction
 
-Ensure you load the appropriate dataset in the respective notebook to run the practicals.
+## **Contributing**
+
+Feel free to fork the repository and make improvements. If you have any suggestions or bug fixes, feel free to create a pull request.
+
+## **License**
+
+This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## **Installation**
 
@@ -34,4 +40,6 @@ To run the lab practicals, ensure you have the required dependencies. You can in
 
 ```bash
 pip install -r requirements.txt
+
+
 
